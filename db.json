@@ -1,0 +1,29 @@
+{
+"products: "[
+{"id":1,"name":"Tempest","category":1961},
+{"id":2,"name":"X5","category":2011},
+{"id":3,"name":"3000GT","category":1995},
+{"id":4,"name":"SLK-Class","category":2008},
+{"id":5,"name":"Charade","category":1992},
+{"id":6,"name":"600SEL","category":1992},
+{"id":7,"name":"Samurai","category":1993},
+{"id":8,"name":"Jimmy","category":1996},
+{"id":9,"name":"ES","category":1992},
+{"id":10,"name":"Tacoma","category":2012},
+{"id":11,"name":"NSX","category":1996},
+{"id":12,"name":"A4","category":2005},
+{"id":13,"name":"Crown Victoria","category":1998},
+{"id":14,"name":"Bronco","category":1989},
+{"id":15,"name":"Countach","category":1985},
+{"id":16,"name":"Sierra 2500","category":1999},
+{"id":17,"name":"2500","category":1995},
+{"id":18,"name":"Yukon","category":2006},
+{"id":19,"name":"Discovery","category":2007},
+{"id":20,"name":"G","category":2000},
+{"id":21,"name":"Corvette","category":1962},
+{"id":22,"name":"ZX2","category":2002},
+{"id":23,"name":"Grand Am","category":1986},
+{"id":24,"name":"Sidekick","category":1995},
+{"id":25,"name":"F430","category":2009}
+]
+}
